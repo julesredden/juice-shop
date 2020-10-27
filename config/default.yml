@@ -32,7 +32,7 @@ application:
     bottomProductImage: apple_pressings.jpg
   welcomeBanner:
     showOnFirstStart: true
-    title: 'Welcome to Deer Park Juice Shop!'
+    title: 'Welcome to Deer Park Juice Shop! Redden's favorite students shop here'
     message: "<p>Being a web application with a vast number of intended security vulnerabilities, the <strong>Deer Park Juice Shop</strong> is supposed to be the opposite of a best practice or template application for web developers: It is an awareness, training, demonstration and exercise tool for security risks in modern web applications. The <strong>OWASP Juice Shop</strong> is an open-source project hosted by the non-profit <a href='https://owasp.org' target='_blank'>Open Web Application Security Project (OWASP)</a> and is developed and maintained by volunteers. Check out the link below for more information and documentation on the project.</p><h1><a href='https://owasp-juice.shop' target='_blank'>https://owasp-juice.shop</a></h1>"
   cookieConsent:
     backgroundColor: '#546e7a'
@@ -94,7 +94,7 @@ products:
       - { text: 'One of my favorites!', author: admin }
   -
     name: 'Orange Juice (1000ml)'
-    description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
+    description: 'Made from oranges hand-picked by Uncle Richard.'
     price: 2.99
     deluxePrice: 2.49
     image: orange_juice.jpg
@@ -128,13 +128,13 @@ products:
       - { text: 'Fry liked it too.', author: bender }
   -
     name: 'OWASP Juice Shop T-Shirt'
-    description: 'Real fans wear it 24/7!'
+    description: 'Reece wears it 24/7!'
     price: 22.49
     limitPerUser: 5
     image: fan_shirt.jpg
   -
     name: 'OWASP Juice Shop CTF Girlie-Shirt'
-    description: 'For serious Capture-the-Flag heroines only!'
+    description: 'For serious Capture-the-Flag heroines only! Valerie has one in every color'
     price: 22.49
     image: fan_girlie.jpg
   -
@@ -158,18 +158,18 @@ products:
       - hueteroneel
       - eurogium edule
   -
-    name: 'OWASP Juice Shop Sticker (2015/2016 design)'
+    name: 'Deer Park Juice Shop Sticker (2015/2016 design)'
     description: 'Die-cut sticker with the official 2015/2016 logo. By now this is a rare collectors item. <em>Out of stock!</em>'
     price: 999.99
     image: sticker.png
     deletedDate: '2017-04-28'
   -
-    name: 'OWASP Juice Shop Iron-Ons (16pcs)'
+    name: 'Deer Park  Juice Shop Iron-Ons (16pcs)'
     description: 'Upgrade your clothes with washer safe <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">iron-ons</a> of the OWASP Juice Shop or CTF Extension logo!'
     price: 14.99
     image: iron-on.jpg
   -
-    name: 'OWASP Juice Shop Magnets (16pcs)'
+    name: 'Deer Park  Juice Shop Magnets (16pcs)'
     description: 'Your fridge will be even cooler with these OWASP Juice Shop or CTF Extension logo <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">magnets</a>!'
     price: 15.99
     image: magnets.jpg
@@ -179,7 +179,7 @@ products:
     price: 9.99
     image: sticker_page.jpg
   -
-    name: 'OWASP Juice Shop Sticker Single'
+    name: 'OWASP Juice Shop Sticker Single. It is single like all you students'
     description: 'Super high-quality vinyl <a href="https://www.stickeryou.com/products/owasp-juice-shop/794" target="_blank">sticker single</a> with the OWASP Juice Shop or CTF Extension logo! The ultimate laptop decal!'
     price: 4.99
     image: sticker_single.jpg
@@ -202,7 +202,7 @@ products:
     image: fan_hoodie.jpg
   -
     name: 'OWASP Juice Shop-CTF Velcro Patch'
-    description: '4x3.5" embroidered patch with velcro backside. The ultimate decal for every tactical bag or backpack!'
+    description: '4x3.5" embroidered patch with velcro backside. The ultimate decal for every tactical bag or backpack! Cruz would not be caught without one'
     price: 2.92
     quantity: 5
     limitPerUser: 5
@@ -252,7 +252,7 @@ products:
     image: artwork.jpg
   -
     name: 'Global OWASP WASPY Award 2017 Nomination'
-    description: 'Your chance to nominate up to three quiet pillars of the OWASP community ends 2017-06-30! <a href="https://www.owasp.org/index.php/WASPY_Awards_2017">Nominate now!</a>'
+    description: 'Your chance to nominate up to three quiet pillars of the OWASP community ends 2017-06-30! Remember Redden <a href="https://www.owasp.org/index.php/WASPY_Awards_2017">Nominate now!</a>'
     price: 0.03
     image: waspy.png
     deletedDate: '2017-07-01'
@@ -283,7 +283,7 @@ products:
       - { text: 'Even more interesting than watching Interdimensional Cable!', author: morty }
   -
     name: 'Melon Bike (Comeback-Product 2018 Edition)'
-    description: 'The wheels of this bicycle are made from real water melons. You might not want to ride it up/down the curb too hard.'
+    description: 'The wheels of this bicycle are made from real water melons. You might not want to ride it up/down the curb too hard. Ask William for the story'
     price: 2999
     quantity: 3
     limitPerUser: 1
